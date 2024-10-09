@@ -1085,3 +1085,4 @@ C:\Users\grazi\Desktop\Material-Aluno\Exo.WebApi\obj\Debug\net6.0\scopedcss\bund
 C:\Users\grazi\Desktop\Material-Aluno\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.csproj.Up2Date
 C:\Users\grazi\Desktop\Material-Aluno\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.genruntimeconfig.cache
 C:\Users\grazi\Desktop\Material-Aluno\Exo.WebApi\obj\Debug\net6.0\ref\Exo.WebApi.dll
+C:\Users\grazi\Desktop\Material-Aluno\Exo.WebApi\obj\Debug\net6.0\Exo.WebApi.sourcelink.json
